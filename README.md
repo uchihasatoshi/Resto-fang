@@ -1,6 +1,6 @@
 ## 从一个PDF到静态页面 
 
-### [效果预览](http://pixelhint.com/resto-free-beautiful-restaurant-psd-home-page-website-template/)
+### [效果预览](http://www.animepc.me/Resto-fang/)
 ### [PDF下载](http://pixelhint.com/resto-free-beautiful-restaurant-psd-home-page-website-template/)
 
 ### 说明
