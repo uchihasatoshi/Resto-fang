@@ -1,6 +1,6 @@
 ## 从一个PSD到静态页面 
 
-### [效果预览](http://www.animepc.me/Resto-fang/)
+### [效果预览](https://uchihasatoshi.github.io/Resto-fang/)
 ### [PSD下载](http://pixelhint.com/resto-free-beautiful-restaurant-psd-home-page-website-template/)
 
 ### 说明
